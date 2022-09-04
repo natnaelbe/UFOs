@@ -1,2 +1,1 @@
-# UFOs_Challenge
-Updated repository
+# UFOs
